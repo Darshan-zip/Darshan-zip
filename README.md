@@ -4,7 +4,7 @@
   <!-- Shows light.svg when the user's GitHub theme is light -->
   <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
   <!-- Fallback image -->
-  <img alt="Darshan Parthasarathy Banner" src="./assets/dark.svg" width="100%">
+  <img alt="Darshan Parthasarathy Banner" src="./assets/light.svg" width="100%">
 </picture>
 <p align="center">
   <a href="https://github.com/Darshan-zip">
